@@ -1,12 +1,12 @@
 name = "GosolCraft Next"
 author = "guineu"
-version = "1"
+version = "1.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "13a36b2d8324382f9b7eb625f8f6580acfc808019e34f43076dd20bf52f4ea1d"
+hash = "3089ed9ed1c64deff3597b6ce1c76f5741e7e251635afa3072fc3467c711e038"
 
 [versions]
 fabric = "0.12.12"

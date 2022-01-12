@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "8205657849167a581d1c3923c0941e6abab12bd3d033d18178be62fe2e55068e"
+hash = "1c06a6c80fc3898ca68ed742af73dafc8f2f5582a4463728ce94b01f553ab8da"
 metafile = true
 
 [[files]]
@@ -31,6 +31,11 @@ hash = "dabac27b3ae32db70ec9a2dec64707e851263a712d1ed0d03853c5dd3949f22f"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric.toml"
+hash = "4645bf47acca0ab0b7085145ef5b4d7a070015be610a5a54e7438ebe0d0eaaf8"
+metafile = true
+
+[[files]]
 file = "mods/immersive-portals-mod.toml"
 hash = "72e9d6598e82f799e6083e276c61ec730463857f4c2c04ea164f33229e458e45"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.toml"
 hash = "cd6eb3ca8df7c1dfc3c6881af99da9534dc29a54922ed0a0e7ea980fa304f764"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.toml"
+hash = "6a6f960f7618742f91e8ee01e0f3444d098383ac846d7f62c58ddfb943b86948"
 metafile = true
 
 [[files]]
