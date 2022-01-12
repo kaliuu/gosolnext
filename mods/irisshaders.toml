@@ -11,3 +11,8 @@ hash = "3265639627"
 [update.curseforge]
 file-id = 3596182
 project-id = 455508
+
+[option]
+default = true
+description = "Mod de Shaders. No instalar si tienes pocos recursos"
+optional = true
