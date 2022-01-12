@@ -1,0 +1,13 @@
+name = "Immersive Portals"
+filename = "immersive-portals-1.1.8-mc1.18.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3593/174/immersive-portals-1.1.8-mc1.18.1-fabric.jar"
+hash-format = "murmur2"
+hash = "210588097"
+
+[update]
+[update.curseforge]
+file-id = 3593174
+project-id = 332273

@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "9303f6ef825ac9dac488d37017ed6ef9eec0572e0e87133eb4450de4182d7af2"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "2fdfc03898a5e23b23e9eecbce011c2ea0e0386cff14be61518b342533b6c663"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-mod.toml"
+hash = "b1d0c22f556f2bc9e088ecf4c8f8404681ecde84650e25220af161af76d25ad7"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "fd255090b8121a20465cb46482af2b3035507462f5540a90272c8ae8fbc8e08f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "37f85589b109b7ed8402d8b7ab56e5517c367bcb8a7837820d41a4eb5c56c57b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "fafdff62c5305481d46c6e7990ebbf8781396f2bc5baada513ae0275d23b7a1d"
+metafile = true
