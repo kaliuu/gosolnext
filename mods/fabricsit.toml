@@ -1,0 +1,13 @@
+name = "FabricSit"
+filename = "FabricSit-1.7.1.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/734/FabricSit-1.7.1.jar"
+hash-format = "murmur2"
+hash = "3158175269"
+
+[update]
+[update.curseforge]
+file-id = 3561734
+project-id = 480257

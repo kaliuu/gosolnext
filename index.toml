@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bfapi.toml"
+hash = "5c153556c27a774ae8aeb6e747ebddd3f95bd27349b08f03f766c2f6481eb1e0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "8205657849167a581d1c3923c0941e6abab12bd3d033d18178be62fe2e55068e"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "8772365fc36684f62ade6b67b3e7d096c10e498cde369d213fdd2e72238a2678"
+metafile = true
+
+[[files]]
+file = "mods/fabricsit.toml"
+hash = "dabac27b3ae32db70ec9a2dec64707e851263a712d1ed0d03853c5dd3949f22f"
 metafile = true
 
 [[files]]
