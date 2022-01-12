@@ -36,6 +36,11 @@ hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.toml"
+hash = "5b17699a5edf9b5d8d53f67181bfe6e7a635b3f7c6681a3b55d47f0333ac7ae3"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
