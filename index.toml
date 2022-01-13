@@ -61,11 +61,6 @@ hash = "988eb2f46a1adfd2692cc4d779ab210b1bfbb2b08d9b5d763fb607ea0171e239"
 metafile = true
 
 [[files]]
-file = "mods/paintings-fabric-edition.toml"
-hash = "22311bf2c90332a6e7b8be1b9c5367c44404981696f81ee581fa702caa969506"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.toml"
 hash = "77fed5c6646ab89a8c548eb44e957f4ffb2b59d7b0fcf02470942c5ba2ea3d1f"
 metafile = true
