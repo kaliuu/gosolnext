@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "b4732a8a4b297c23a9b30e256627efc8f6b5c18baf36fad66712503591743e78"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/GosolMenu.txt"
+hash = "8de59169aff876c39bfd5ca9a04cf08d6bb63396e3b590dd0b2ec9255cbef790"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "2e4d40478c0f21c12c3b1065659ef05c592deee93982ec4abac611145be09468"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_0.png"
+hash = "a42e76a0c72453443be61828838ca468a4e145e30df8292058ebafc1b2eb07d9"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_1.png"
+hash = "a0cf82d267991f8abec1c13727f5ac2e3e6cd319268cbdbe7e57e3d8f1bdeb22"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_2.png"
+hash = "2c09737a3d8d29ac0a994979fa258405905bd37f2b385172d297826b62485a57"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_3.png"
+hash = "babfd3219ed90ac894961128b32d9e02f6bafc1d4076155acc53f0f94d933b6e"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_4.png"
+hash = "44a7af99e7551a83c482dadf9c0d6c05a37ceb3bcd7fe3239084a41505ab287a"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_5.png"
+hash = "a565d85a2aef35b3313de410aaaab81c0c65dd31b3961a55620c95d6618c61a6"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
+hash = "518f0400e408a61f472db726e0838088d55552b2c2fe153c520ff4266046e16e"
+
+[[files]]
 file = "mods/bfapi.toml"
 hash = "5c153556c27a774ae8aeb6e747ebddd3f95bd27349b08f03f766c2f6481eb1e0"
 metafile = true
@@ -16,13 +60,18 @@ hash = "62561e1979c26e90a8e60b5d2320879c56a0e3904dd48bed929890dd3cbdf2bc"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.toml"
+hash = "3c2a5355d761d6377834dfcf40336bd18d19efbe504142586b796dc904cead64"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "0079c91da26e7f8937b093abbea5bf69639b588219611e7cadeeb98989bd3c93"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8772365fc36684f62ade6b67b3e7d096c10e498cde369d213fdd2e72238a2678"
+hash = "7de350a9e425dd89b8bb42d2232ff6a10c4affe48c9de6004d5e7094f9d7fa8a"
 metafile = true
 
 [[files]]
@@ -32,17 +81,17 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "4645bf47acca0ab0b7085145ef5b4d7a070015be610a5a54e7438ebe0d0eaaf8"
+hash = "d2b4d7ae83e8c548d641de5dccfb583a7a234e129821a19f25674981c3d6d87b"
 metafile = true
 
 [[files]]
 file = "mods/immersive-portals-mod.toml"
-hash = "72e9d6598e82f799e6083e276c61ec730463857f4c2c04ea164f33229e458e45"
+hash = "690222e4c04adb4c63aa3a83cb786c8056035ff57a3c6e5998fb80b0fcd4f2d1"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "cd6eb3ca8df7c1dfc3c6881af99da9534dc29a54922ed0a0e7ea980fa304f764"
+hash = "f7ebdb13532e22b8a2ca3424ffc61916749f21be4f8a4ab45b001e4093963cb4"
 metafile = true
 
 [[files]]
@@ -67,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "902d7f05c57c2c8ca035adadf972f5698e3bc8d581728e39ba43d305b4e35b31"
+hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "97eb23b9190758fed512b6e69e568928323b19e219c1d0342fc26b0a6ac18397"
+hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
 metafile = true
 
 [[files]]

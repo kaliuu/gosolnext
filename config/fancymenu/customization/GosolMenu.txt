@@ -1,0 +1,276 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = gosolpanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = middle-left
+  x = 10
+  action = movebutton
+  y = 262
+}
+
+customization {
+  identifier = %id=400310%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-left
+  x = 55
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=400358%
+  width = 36
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-left
+  x = 10
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = middle-left
+  x = 10
+  action = movebutton
+  y = 240
+}
+
+customization {
+  identifier = %id=400286%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = middle-left
+  x = 10
+  action = movebutton
+  y = 284
+}
+
+customization {
+  identifier = %id=400394%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = middle-left
+  x = 10
+  action = movebutton
+  y = 306
+}
+
+customization {
+  identifier = %id=502394%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-left
+  x = 33
+  action = movebutton
+  y = 57
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = -20
+  actionid = f1f885be-ed0a-459c-bec6-1e8ae4afed941642030171881
+  action = addtext
+  y = 20
+  scale = 1.0
+  alignment = left
+  value = Modpack creado por este fella
+}
+
+customization {
+  showname = true
+  orientation = bottom-left
+  crouching = true
+  x = 220
+  slim = true
+  actionid = 63849e17-a52b-4c86-bec4-f40b0dcb5ca61642030192403
+  action = addentity
+  y = -1
+  scale = 30
+  playername = guiineu
+  parrot = false
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 256
+  actionid = 04c2cf6d-42a8-48f6-83e3-3d0a73577f451642030523959
+  action = addtext
+  y = 526
+  scale = 1.0
+  alignment = left
+  vr:showif:osmac = true
+  value = no me olvido de ti conde ;)
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = true
+  x = 242
+  slim = false
+  actionid = e4aa5549-3ac0-4b87-ab8f-e2bba7da9a571642030708540
+  action = addentity
+  y = 539
+  scale = 30
+  playername = %playername%
+  vr:showif:osmac = true
+  parrot = false
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 52
+  actionid = af405796-9485-4511-bd0e-f4cb5a7b92f61642030928156
+  action = addtext
+  y = 529
+  scale = 1.0
+  alignment = left
+  value = Modpack creado por este fella
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  description = Entra entara hehehe
+  label = Entrar en GosolCraft
+  loopbackgroundanimations = true
+  x = 10
+  width = 133
+  actionid = 71018338-6376-47f8-8187-464733cc629f1642032796400
+  action = addbutton
+  y = 218
+  value = 172.106.193.212:25636
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 1
+  actionid = 631a4737-1b10-4fe3-9d63-4b26ce6407a71642033085892
+  action = addtext
+  y = 90
+  scale = 2.0
+  alignment = centered
+  value = Bienvenide a GosolCraft/Estiu %playername%
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 0
+  actionid = 47c13bf0-2e89-41ef-88c4-6a7e5e2dc0251642033146938
+  action = addtext
+  y = 110
+  scale = 1.0
+  alignment = centered
+  value = El servidor esta %serverstatus:172.106.193.212:25636%
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 1
+  actionid = 5e24a5bc-f09d-453c-bce2-a0d7653bf6031642033251629
+  action = addtext
+  y = 120
+  scale = 1.0
+  alignment = centered
+  value = Hay ahora mismo %serverplayercount:172.106.193.212:25636% personas jugando
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 2
+  actionid = 1a771580-527a-440e-95de-8c9f836b80461642033469827
+  action = addtext
+  y = 491
+  scale = 1.0
+  alignment = left
+  value = Hay %totalmods% mods instalados
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 2
+  actionid = bcef5658-7f6d-4892-b066-fe51794ba4e51642033535085
+  action = addtext
+  y = 502
+  scale = 1.0
+  alignment = left
+  value = Que ocupan actualmente %usedram%MB de RAM
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 2
+  actionid = 85269347-9ff2-4afb-bca9-fe84253394a81642033682888
+  action = addtext
+  y = 512
+  scale = 1.0
+  alignment = left
+  value = Minecraft %mcversion%, Fabric %version:fabric%
+}
+
