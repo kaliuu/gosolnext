@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "63f5185378781205469040b29604863fd106db8989e7cb7387f346c60fc1b578"
+hash = "6f7a2f977b7f6e570d67ef60f2a5a6a898c0e443d0813d29d040b8727287debc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -46,7 +46,7 @@ hash = "518f0400e408a61f472db726e0838088d55552b2c2fe153c520ff4266046e16e"
 
 [[files]]
 file = "config/fancymenu/splash.txt"
-hash = "bb303b06c4ed3f46fa00780c89b2dd7304d04ef7ee97ced5df7bb3eb16f36470"
+hash = "b63d0357079b14eda545cf8b58b68cb3d24fba97132d547b368a63b7a7e4a9ab"
 
 [[files]]
 file = "mods/bfapi.toml"

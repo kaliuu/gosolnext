@@ -37,7 +37,7 @@ I:splashrotation = '0';
 I:splashy = '10';
 I:splashx = '50';
 B:hidesplashtext = 'false';
-S:splashtextfile = 'config/fancymenu/slash.txt';
+S:splashtextfile = 'config/fancymenu/splash.txt';
 S:splashorientation = 'original';
 
 
