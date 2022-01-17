@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "b4732a8a4b297c23a9b30e256627efc8f6b5c18baf36fad66712503591743e78"
+hash = "63f5185378781205469040b29604863fd106db8989e7cb7387f346c60fc1b578"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -43,6 +43,10 @@ hash = "a565d85a2aef35b3313de410aaaab81c0c65dd31b3961a55620c95d6618c61a6"
 [[files]]
 file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
 hash = "518f0400e408a61f472db726e0838088d55552b2c2fe153c520ff4266046e16e"
+
+[[files]]
+file = "config/fancymenu/splash.txt"
+hash = "bb303b06c4ed3f46fa00780c89b2dd7304d04ef7ee97ced5df7bb3eb16f36470"
 
 [[files]]
 file = "mods/bfapi.toml"

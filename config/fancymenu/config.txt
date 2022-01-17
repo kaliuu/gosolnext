@@ -34,10 +34,10 @@ B:hiderealmsnotifications = 'true';
 
 S:splashcolor = '#A350AD';
 I:splashrotation = '0';
-I:splashy = '18';
+I:splashy = '10';
 I:splashx = '50';
 B:hidesplashtext = 'false';
-S:splashtextfile = 'slash.txt';
+S:splashtextfile = 'config/fancymenu/slash.txt';
 S:splashorientation = 'original';
 
 
