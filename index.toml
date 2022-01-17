@@ -60,6 +60,11 @@ hash = "62561e1979c26e90a8e60b5d2320879c56a0e3904dd48bed929890dd3cbdf2bc"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "a7129404822518447540c087931a3b208024badcef8dc2bad430753eac66edc6"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "0079c91da26e7f8937b093abbea5bf69639b588219611e7cadeeb98989bd3c93"
 metafile = true
@@ -96,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
-hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+hash = "c34030a9e1260bbb1a8173d743ff0d0bd83190d33e5ce5525e48b39a66119437"
 metafile = true
 
 [[files]]
