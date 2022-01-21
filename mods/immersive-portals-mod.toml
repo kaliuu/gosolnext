@@ -1,17 +1,4 @@
 name = "Immersive Portals"
-<<<<<<< HEAD
-filename = "immersive-portals-1.2.1-mc1.18.1-fabric.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3606/461/immersive-portals-1.2.1-mc1.18.1-fabric.jar"
-hash-format = "murmur2"
-hash = "2897265248"
-
-[update]
-[update.curseforge]
-file-id = 3606461
-=======
 filename = "immersive-portals-1.2.3-mc1.18.1-fabric.jar"
 side = "both"
 
@@ -23,5 +10,4 @@ hash = "3989583138"
 [update]
 [update.curseforge]
 file-id = 3614451
->>>>>>> 0102699 (update tes)
 project-id = 332273

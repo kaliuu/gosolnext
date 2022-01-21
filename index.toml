@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "1c06a6c80fc3898ca68ed742af73dafc8f2f5582a4463728ce94b01f553ab8da"
+hash = "504fd0d00011961598b4bd34ac13d51b1fb159230638d13b1ce789bb702c59be"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "591b5d7ecb82de02dd26d01848549257b565e31cda6553c7aa61730df26f5fd5"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -90,12 +90,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-portals-mod.toml"
-hash = "d449c983990205723625858e52fc321d32fb38c3e2d4214b4474ca9febd2c1f4"
+hash = "7f3c14999de0d47b90fa78e354919f37ffb0d7d901e22326481b03bec23c0ff5"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "771390ac25ef30fd051198986d34896d0b1454080675d3e8342884bd7948a0ae"
+hash = "963018a6507569481df5f4a82da7a6a8a29ec517cff6567e964f9e9af259ca4b"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "000fd60b03f82a9b2b6bc0d37cb7ad08d3da6db877af5b6991a3efb1d15f1692"
+hash = "feadea71d021edea92e3b51ad14dedf38ca5b3a550dcb9e45522526dc765a84b"
 metafile = true
 
 [[files]]
