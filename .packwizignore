@@ -7,8 +7,8 @@
 .gitignore
 
 # Exclude README
-/README.md
-
+*.md
+*.html
 # Exclude exported CurseForge zip files
 *.zip
 
