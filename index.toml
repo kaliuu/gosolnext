@@ -85,12 +85,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "d2b4d7ae83e8c548d641de5dccfb583a7a234e129821a19f25674981c3d6d87b"
+hash = "415df5233a83c8b1a93ba219466cd1f64bfafcdb6d867bea7dd075a41422d54e"
 metafile = true
 
 [[files]]
 file = "mods/immersive-portals-mod.toml"
-hash = "7f3c14999de0d47b90fa78e354919f37ffb0d7d901e22326481b03bec23c0ff5"
+hash = "eae6669089774310fa9790d28503e0631f777302765de7a79ff2763d5585f459"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "feadea71d021edea92e3b51ad14dedf38ca5b3a550dcb9e45522526dc765a84b"
+hash = "6b512fa6f9a4cf3c8d51ea3b9a133bc948802227590676af50ce0da6a60a1835"
 metafile = true
 
 [[files]]
