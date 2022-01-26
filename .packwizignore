@@ -9,6 +9,7 @@
 # Exclude README
 *.md
 *.html
+docs/*
 # Exclude exported CurseForge zip files
 *.zip
 
