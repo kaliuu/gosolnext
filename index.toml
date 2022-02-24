@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "8654fbfefded08c0180ac71e1be43dd9e3b94c93f1ccc701f1921cfdc0b54b29"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "d19356416be8a2d59aa577b5386cab4fc54a00414fc78ad853edf779e2fcfefb"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "6f7a2f977b7f6e570d67ef60f2a5a6a898c0e443d0813d29d040b8727287debc"
 
@@ -101,11 +109,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete-fabric.toml"
 hash = "6a6f960f7618742f91e8ee01e0f3444d098383ac846d7f62c58ddfb943b86948"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.toml"
-hash = "c34030a9e1260bbb1a8173d743ff0d0bd83190d33e5ce5525e48b39a66119437"
 metafile = true
 
 [[files]]
