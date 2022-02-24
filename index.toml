@@ -73,11 +73,6 @@ hash = "11d2fce5f9292ea948efa9da7c234d7ef0d20dfaad1bbb5bab7589a33c9a800b"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.toml"
-hash = "a7129404822518447540c087931a3b208024badcef8dc2bad430753eac66edc6"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.toml"
 hash = "4c59a9bcff322ac2ae02d686b24e2fa2961650462f203536e3cd05a99f421a19"
 metafile = true
