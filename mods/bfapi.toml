@@ -3,11 +3,11 @@ filename = "bfapi.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3561/709/bfapi.jar"
+url = "https://edge.forgecdn.net/files/3642/129/bfapi.jar"
 hash-format = "murmur2"
-hash = "3477609411"
+hash = "76353245"
 
 [update]
 [update.curseforge]
-file-id = 3561709
+file-id = 3642129
 project-id = 501198
