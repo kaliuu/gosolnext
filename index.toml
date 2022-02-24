@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "267f44216d8a20ecdab8fd2ea5a747ad77d8f68549b3726b8a9e2df20e9d14c4"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "6f7a2f977b7f6e570d67ef60f2a5a6a898c0e443d0813d29d040b8727287debc"
 
