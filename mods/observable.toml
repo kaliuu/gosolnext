@@ -1,0 +1,13 @@
+name = "Observable"
+filename = "observable-1.2.3-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/1.2.3/observable-1.2.3-fabric.jar"
+hash-format = "sha1"
+hash = "5e74ea1309634e7dfb998704ed5fc36feaa3367b"
+
+[update]
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "NthB3dhp"

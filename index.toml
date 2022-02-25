@@ -117,6 +117,11 @@ hash = "adfc60699a9100f1b15850c98c05f7d3df4192c7a7ffcef377047d11fbc9d177"
 metafile = true
 
 [[files]]
+file = "mods/observable.toml"
+hash = "d0703a4d7a60101a9974acfb846b49523355b15fa6951356fa2069378cbc6ebf"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "988eb2f46a1adfd2692cc4d779ab210b1bfbb2b08d9b5d763fb607ea0171e239"
 metafile = true
